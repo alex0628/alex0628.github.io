@@ -1,0 +1,13 @@
+This theme was made possible with the help of this scripts/files/plugins.
+
+- GoogleFont - http://www.google.com/fonts/
+- FontAwesome - http://fortawesome.github.io/Font-Awesome/
+- Animate CSS - http://daneden.me/animate/
+- jQuery Framework - http://jquery.com/
+- Bootstrap - http://getbootstrap.com/
+- HTML5 Shiv-  https://code.google.com/p/html5shiv/
+- jQuery Knob Countdown - https://github.com/Libbux/jQuery-Knob-Countdown
+
+
+- Subtle Patterns - http://subtlepatterns.com/
+- Passion Themes - http://www.passionthemes.com
